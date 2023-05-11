@@ -1,3 +1,5 @@
+![logo](https://github.com/KanishkD2022/KanishkD2022/blob/main/Screenshot_2023-05-11-12-18-48-82_40deb401b9ffe8e1df2f1cc5ba480b12.jpg)
+
 <h1 align="center">Hi 👋, I'm Kanishka Duary</h1>
 <h3 align="center">A passionate Machine Learning Enthusiast from India</h3>
 
