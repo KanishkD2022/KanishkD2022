@@ -7,8 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanishkd2022&label=Profile%20views&color=0e75b6&style=flat" alt="kanishkd2022" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kanishkd2022" alt="kanishkd2022" /></a> </p>
-
 - 🌱 I’m currently learning **Javascript along with React JS. along with Machine Learning with Python**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/kanishka-duary-830b77250/](https://www.linkedin.com/in/kanishka-duary-830b77250/)
