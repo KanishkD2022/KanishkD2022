@@ -21,7 +21,7 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/kanishka-duary-830b77250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kanishka duary" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/kanishka duary (ra2211003010260)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kanishka duary (ra2211003010260)" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/kd5610" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kanishka duary (ra2211003010260)" height="30" width="40" /></a>
 <a href="https://discord.gg/#1220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#1220" height="30" width="40" /></a>
 <a href="https://www.instagram.com/saxitoxin_19/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saxitoxin_19" height="30" width="40" /></a>
 <a href="https://open.spotify.com/user/93hpqpks2tsaywzrnj56hghz1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="KanishkD" height="30" width="40" /></a>
